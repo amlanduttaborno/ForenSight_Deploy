@@ -1,0 +1,47 @@
+[
+  {
+    "index": 1,
+    "x": 495,
+    "y": 25,
+    "width": 205,
+    "height": 258,
+    "area_pct": 1.751,
+    "mean_evidence": 0.6435
+  },
+  {
+    "index": 2,
+    "x": 55,
+    "y": 28,
+    "width": 293,
+    "height": 124,
+    "area_pct": 1.703,
+    "mean_evidence": 0.6825
+  },
+  {
+    "index": 3,
+    "x": 112,
+    "y": 128,
+    "width": 279,
+    "height": 80,
+    "area_pct": 1.234,
+    "mean_evidence": 0.6631
+  },
+  {
+    "index": 4,
+    "x": 670,
+    "y": 207,
+    "width": 116,
+    "height": 130,
+    "area_pct": 0.531,
+    "mean_evidence": 0.626
+  },
+  {
+    "index": 5,
+    "x": 639,
+    "y": 194,
+    "width": 42,
+    "height": 51,
+    "area_pct": 0.156,
+    "mean_evidence": 0.6071
+  }
+]

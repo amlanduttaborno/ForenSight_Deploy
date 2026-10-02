@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "x": 42,
+    "y": 101,
+    "width": 175,
+    "height": 165,
+    "area_pct": 23.359,
+    "mean_evidence": 0.8225
+  },
+  {
+    "index": 2,
+    "x": 65,
+    "y": 16,
+    "width": 117,
+    "height": 81,
+    "area_pct": 4.997,
+    "mean_evidence": 0.7016
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "x": 205,
+    "y": 16,
+    "width": 5,
+    "height": 41,
+    "area_pct": 0.194,
+    "mean_evidence": 0.3907
+  },
+  {
+    "index": 2,
+    "x": 206,
+    "y": 131,
+    "width": 4,
+    "height": 53,
+    "area_pct": 0.187,
+    "mean_evidence": 0.3946
+  },
+  {
+    "index": 3,
+    "x": 205,
+    "y": 66,
+    "width": 5,
+    "height": 21,
+    "area_pct": 0.101,
+    "mean_evidence": 0.3978
+  },
+  {
+    "index": 4,
+    "x": 64,
+    "y": 202,
+    "width": 17,
+    "height": 5,
+    "area_pct": 0.074,
+    "mean_evidence": 0.3047
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "index": 1,
+    "x": 119,
+    "y": 160,
+    "width": 15,
+    "height": 27,
+    "area_pct": 0.192,
+    "mean_evidence": 0.3269
+  },
+  {
+    "index": 2,
+    "x": 135,
+    "y": 108,
+    "width": 8,
+    "height": 22,
+    "area_pct": 0.141,
+    "mean_evidence": 0.2666
+  },
+  {
+    "index": 3,
+    "x": 173,
+    "y": 136,
+    "width": 12,
+    "height": 16,
+    "area_pct": 0.103,
+    "mean_evidence": 0.2832
+  },
+  {
+    "index": 4,
+    "x": 158,
+    "y": 189,
+    "width": 13,
+    "height": 13,
+    "area_pct": 0.089,
+    "mean_evidence": 0.3664
+  },
+  {
+    "index": 5,
+    "x": 144,
+    "y": 201,
+    "width": 11,
+    "height": 15,
+    "area_pct": 0.085,
+    "mean_evidence": 0.2584
+  },
+  {
+    "index": 6,
+    "x": 170,
+    "y": 178,
+    "width": 11,
+    "height": 9,
+    "area_pct": 0.071,
+    "mean_evidence": 0.2446
+  },
+  {
+    "index": 7,
+    "x": 117,
+    "y": 101,
+    "width": 9,
+    "height": 9,
+    "area_pct": 0.069,
+    "mean_evidence": 0.3035
+  },
+  {
+    "index": 8,
+    "x": 150,
+    "y": 101,
+    "width": 9,
+    "height": 9,
+    "area_pct": 0.066,
+    "mean_evidence": 0.3493
+  }
+]
